@@ -31,8 +31,8 @@ I am an ambitious computer science engineer, an open-source enthusiast, Full Sta
 
 #### 🌍 Connect Me On
 
-[![twitter badge](https://img.shields.io/badge/twitter-Pranavdhar-0077b5?style=social&logo=twitter)](https://twitter.com/PhuocNNP)<br/>
-[![linkedin badge](https://img.shields.io/badge/linkedin-Pranavdhar-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/phuoc-nguyen-5267631a0/)
+[![twitter badge](https://img.shields.io/badge/twitter-Phuoc-0077b5?style=social&logo=twitter)](https://twitter.com/PhuocNNP)<br/>
+[![linkedin badge](https://img.shields.io/badge/linkedin-Phuoc-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/phuoc-nguyen-5267631a0/)
 
 #### :octocat: My Github Statistics
 
