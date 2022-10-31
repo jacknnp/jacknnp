@@ -41,6 +41,6 @@ I am an ambitious computer science engineer, an open-source enthusiast, Full Sta
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacknnp&theme=radical&layout=compact" />
 </a>
 
-![](1068)
+![](https://camo.githubusercontent.com/04834c1c89ac9bdea3beb933ef0a4c7af5a47468521b180c43e68817ed70b2e2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d69616d7072616e617664686172)
 
 <br/>
